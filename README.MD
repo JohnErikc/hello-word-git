@@ -95,9 +95,25 @@ esto es un tecto referente a una cita que pondremos debajo:
 
 > Esto es una cita
 
-exto es otro texto que no se relaciona con la cita anterior dando enter
+esto es otro texto que no se relaciona con la cita anterior dando enter
 
 > esto es otra cita.
+
+
+# Linias divisoras
+
+Esto es un texto que sera dividido por guiones medios
+
+---
+Esto es otro texto devidido por asteriscos.
+
+***
+
+Esto es otro texto dividido por guiones bajos
+
+___
+
+
 
 
 
