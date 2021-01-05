@@ -90,6 +90,15 @@ export  $initHighlight;
 | John | obando | 123456 |
 | fabian | Ramirez | 321564 |
 
+# Citas
+esto es un tecto referente a una cita que pondremos debajo:
+
+> Esto es una cita
+
+exto es otro texto que no se relaciona con la cita anterior dando enter
+
+> esto es otra cita.
+
 
 
 
