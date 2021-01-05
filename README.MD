@@ -39,6 +39,8 @@ Underline 2
 - [Esto es un link de Markdown](http://google.com)
 - [Esto es un link al index](index.html)
 
+# Imagenes
+![LogoGit](https://i.pinimg.com/originals/dc/1a/1a/dc1a1a4287f57e4a80ea5ecfd912ee96.png)
 
 
 
